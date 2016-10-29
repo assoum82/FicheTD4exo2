@@ -3,7 +3,7 @@ package com.company;
 /**
  * Created by HAMALI on 24/10/16.
  */
-public class Point extends PointA {
+public class Point extends PointA { //tu as inversé c'est class PointA extends Point 
 
     private String nom;
 
